@@ -4,7 +4,6 @@
   - using Path Parameters
 - Path Params
   - match
-  # Routing using react-router Part 3
 
 ## API
 
